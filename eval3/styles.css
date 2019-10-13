@@ -1,0 +1,51 @@
+/* styles.css */
+body {
+  background-color: #E0E0E0;
+}
+
+h1 {
+  font-family: "Calibri", sans-serif;
+  color: #B41A83;
+  text-align: center;
+  text-shadow: 1px 1px #F3AADC;
+}
+
+h2 {
+  font-family: "Calibri", sans-serif;
+  color: #590D41;
+  text-align: left;
+  font-size: 30px;
+  background: #F3AADC;
+}
+h3 {
+  font-family: "Calibri", sans-serif;
+  color: #B41A83;
+  text-align: left;
+  font-size: 18px;
+}
+p {
+  font-family: "Calibri", sans-serif;
+  font-size: 120%;
+  font-size: 18px;
+  color: dimgray;
+  text-indent: 50px;
+}
+ul {
+  background: #9cdef8;
+  padding: 20px;
+}
+ul li {
+  background: #9cdef8;
+  margin: 10px;
+  font-family: "Calibri", sans-serif;
+  font-size: 120%;
+  font-size: 18px;
+  color: #590D41;
+  margin-left: 55px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
